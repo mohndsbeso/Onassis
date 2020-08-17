@@ -1,0 +1,26 @@
+@import "Vendor/container_Section1/container-Section1";
+@import "Vendor/container_Section2/container-Section2";
+@import "Vendor/container_Section3/container-Section3";
+@import "Vendor/container_Section4/container-Section4";
+@import "Vendor/container_Section5/container-Section5";
+@import "Vendor/container_Section6/container-Section6";
+@import "Vendor/container_Section7/container-Section7";
+@import "Vendor/Fotter/footer";
+
+
+
+
+@media (max-width: 989px)
+{
+
+    .container_Section5
+    {
+        height: auto;
+
+        .card-img
+        {    margin: 3em 0em;}
+    }
+
+}
+
+
